@@ -14,3 +14,9 @@ spring:
       path: /h2-console
   application:
     name: ticket-booking-app
+
+tickets:
+  ticket-configuration:
+    adult: 25
+    student: 18
+    child: 12.5
